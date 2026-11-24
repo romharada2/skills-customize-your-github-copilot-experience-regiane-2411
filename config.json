@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-modules",
+      "title": "Functions and Modules",
+      "description": "Define functions with parameters and return values, and organize code into importable modules",
+      "path": "assignments/functions-and-modules",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
